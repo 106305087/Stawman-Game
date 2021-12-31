@@ -1,1 +1,2 @@
 # Stawman-Game
+I spent three weeks to developing the game, including designing the game materials and coding. This game was an individual project for the “Introduction to Computer Programming” class. Players throw stones to hit as many of certain scarecrows in one minute. Players can control the keyboard to shoot the stone and have three chances to avoid hitting the wrong scarecrows. If a player wins, they go to the next level, otherwise, they fail and the game ends. Different scarecrow appear to confuse players. They will disappear more quickly as the level goes up. 
